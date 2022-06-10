@@ -8,7 +8,7 @@ class Home extends BaseController
     {
 
         echo view('header');
-        echo view('tables');
+        echo view('contenido');
         echo view('footer');
     }
 }

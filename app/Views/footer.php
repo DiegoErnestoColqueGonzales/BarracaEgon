@@ -1,11 +1,11 @@
 <footer class="py-4 bg-light mt-auto">
     <div class="container-fluid px-4">
         <div class="d-flex align-items-center justify-content-between small">
-            <div class="text-muted">Copyright &copy; Your Website 2022</div>
+            <div class="text-muted">Copyright &copy; Barraca EGON <?php echo date('y');?></div>
             <div>
-                <a href="#">Privacy Policy</a>
+                <a href="#">Facebook</a>
                 &middot;
-                <a href="#">Terms &amp; Conditions</a>
+                <a href="#">WhatsApp</a>
             </div>
         </div>
     </div>
