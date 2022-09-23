@@ -23,7 +23,7 @@
         <a class="navbar-brand ps-3" href="index.html">EGON</a>
         <!-- Sidebar Toggle-->
         <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
-      
+
         <!-- Navbar-->
         <ul class="navbar-nav ms-auto  me-3 me-lg-4 me-md-3 my-2 my-md-0">
             <li class="nav-item dropdown">
@@ -45,7 +45,7 @@
                 <div class="sb-sidenav-menu">
                     <div class="nav">
                         <div class="sb-sidenav-menu-heading">Core</div>
-                        
+
                         <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseLayouts" aria-expanded="false" aria-controls="collapseLayouts">
                             <div class="sb-nav-link-icon"><i class="fa-sharp fa-solid fa-shop"></i></div>
                             Productos
@@ -54,15 +54,15 @@
                         <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                             <nav class="sb-sidenav-menu-nested nav">
                                 <a class="nav-link" href="layout-static.html">Productos</a>
-                                <a class="nav-link" href="<?php echo base_url();?>/unidades">Unidades</a>
+                                <a class="nav-link" href="<?php echo base_url(); ?>/unidades">Unidades</a>
                                 <a class="nav-link" href="layout-sidenav-light.html">Categorias</a>
                             </nav>
                         </div>
-                        
-                        
-                        
+
+
+
                     </div>
                 </div>
-                
+
             </nav>
         </div>
